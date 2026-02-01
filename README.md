@@ -34,6 +34,3 @@ This profile documents my journey — from basics to real projects.
 
 ⭐ Always learning. Always improving.
 
-
-- ⚡ Fun fact: ...
--->
