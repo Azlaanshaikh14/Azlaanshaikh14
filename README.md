@@ -1,16 +1,39 @@
-## Hi there 👋
+ # Hi, I'm Azlaan 👋
 
-<!--
-**Azlaanshaikh14/Azlaanshaikh14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 🐍 Python Learner | 💻 Future Developer  
 
-Here are some ideas to get you started:
+I'm currently learning programming and building my skills step by step.
+This profile documents my journey — from basics to real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+---
+
+## 🚀 What I'm Working On
+- Learning **Python** (logic, loops, functions)
+- Practicing coding daily
+- Small projects & experiments
+- Improving problem-solving skills
+
+---
+
+## 🧠 Skills (Growing)
+- Python (Beginner)
+- Basic programming logic
+- Git & GitHub basics
+
+---
+
+## 📌 Goals
+- Become confident in Python
+- Build useful projects
+- Learn advanced programming concepts
+
+---
+
+## 📫 Let's Connect
+- GitHub:-azlaanshaikh1414@gmail.com
+
+⭐ Always learning. Always improving.
+
+
 - ⚡ Fun fact: ...
 -->
