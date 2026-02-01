@@ -1,6 +1,6 @@
  # Hi, I'm Azlaan 👋
 
-🎓 Student | 🐍 Python Learner | 💻 Future Developer  
+🎓 Student | 🐍 Python Learner | 💻 Future AI Engineer  
 
 I'm currently learning programming and building my skills step by step.
 This profile documents my journey — from basics to real projects.
